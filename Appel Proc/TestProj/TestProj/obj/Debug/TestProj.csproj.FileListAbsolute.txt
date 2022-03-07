@@ -1,0 +1,22 @@
+C:\Users\AYOUB\Desktop\TestProj\TestProj\bin\Debug\TestProj.exe.config
+C:\Users\AYOUB\Desktop\TestProj\TestProj\bin\Debug\TestProj.exe
+C:\Users\AYOUB\Desktop\TestProj\TestProj\bin\Debug\TestProj.pdb
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.csproj.AssemblyReference.cache
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.Form1.resources
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.Properties.Resources.resources
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.csproj.GenerateResource.cache
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.exe
+C:\Users\AYOUB\Desktop\TestProj\TestProj\obj\Debug\TestProj.pdb
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\bin\Debug\TestProj.exe.config
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\bin\Debug\TestProj.exe
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\bin\Debug\TestProj.pdb
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.csproj.AssemblyReference.cache
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.Form1.resources
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.Properties.Resources.resources
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.csproj.GenerateResource.cache
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.exe
+C:\Users\IBIZA-PC\Desktop\Appel Proc\TestProj\TestProj\obj\Debug\TestProj.pdb
